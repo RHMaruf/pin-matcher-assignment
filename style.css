@@ -35,17 +35,22 @@ body {
 input[type='text']{
     background-color: #3D4153;
     padding: 10px 0px;
-    color: #ffffff;
+    color: #495BC3;
     width: 80%;
     margin: 0 auto;
     border: 2px solid #858299;
     height: 50px;
     padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
 }
 input[type='text']:focus {
     background-color: #3D4153;
     color: #fff;
     font-size: 20px;
+    text-align: center;
+    font-weight: bold;
 }
 .numbers {
     margin: 30px 0;
